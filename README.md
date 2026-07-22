@@ -1,6 +1,8 @@
-# Hi there, I'm Ashwani Upadhyay 👋
 
-Full-Stack Developer passionate about building robust web applications and solving complex algorithmic problems. Currently focusing on the MERN stack, Data Structures & Algorithms, and AI integrations.
+# Hi there, I'm Ashwani Upadhyay 👋
+**Frontend Developer | React.js & Modern UI**
+
+Frontend Developer proficient in React.js, JavaScript (ES6+), Tailwind CSS, and Framer Motion. Experienced in building responsive, component-based UIs and live client projects.
 
 ---
 
@@ -29,13 +31,35 @@ Full-Stack Developer passionate about building robust web applications and solvi
 
 ### 🚀 Featured Projects
 
-#### 📌 Vijay Medicals
-*Medical inventory and store management system built with full-stack MERN.*
-* **Tech:** React, Node.js, Express, MongoDB
-* [🔗 Repository](https://github.com/ashcodes2/YOUR-REPO-NAME) | [🌐 Live Demo](https://YOUR-DEMO-LINK.com)
+#### 📌 Vijay Medical Store
+*Live e-commerce web application built for a real client.*
+
+* **Tech Stack:** React.js, Vite, Tailwind CSS v4, Framer Motion
+* **Key Highlights:** Built a responsive product catalog supporting 50+ categories; optimized page load performance with lazy loading and image optimization (40% Lighthouse score improvement).
+* [🌐 Live Demo](https://vijay-medical.vercel.app) | [🔗 Repository](https://github.com/ashcodes2/New-Medical)
+
+---
+
+#### 📌 CollabCode
+*Real-time collaborative code editor supporting live multi-user editing.*
+
+* **Tech Stack:** React.js, Monaco Editor, Tailwind CSS, Socket.io
+* **Key Highlights:** Supports live editing for 10+ concurrent users with real-time sync indicators, room-based sessions, and integrated code execution panel.
+* [🌐 Live Demo](https://client-sigma-murex.vercel.app) | [🔗 Repository](https://github.com/ashcodes2/CollabCode-3D)
+
+---
+
+#### 📌 SMS Spam Detection System
+*Machine Learning NLP pipeline for classifying spam messages.*
+
+* **Tech Stack:** Python, Scikit-learn, TF-IDF, NLP
+* **Key Highlights:** Trained Naive Bayes and SVM classifiers achieving 95%+ accuracy on the UCI dataset.
+* [🔗 Repository](https://github.com/ashcodes2/SMS-Spam-Detection)
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-* **Email:** your.email@example.com
+
+* **LinkedIn:** [linkedin.com/in/ashwaniupadhyaydev2](https://linkedin.com/in/ashwaniupadhyaydev2)
+* **Email:** [avinash744826@gmail.com](mailto:avinash744826@gmail.com)
+* **Portfolio:** [ashwani-portfolio-wheat.vercel.app](https://ashwani-portfolio-wheat.vercel.app)
