@@ -1,76 +1,63 @@
-# Hi there, I'm Ashwani Upadhyay 👋
-**Frontend Developer | React.js & Modern UI**
+<div align="center">
+  <h1>Ashwani Upadhyay</h1>
+  <p><strong>Full-Stack Software Engineer | MERN & Transactional Systems</strong></p>
+  <p>Gorakhpur, UP, India • avinash744826@gmail.com</p>
 
-Frontend Developer proficient in React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Supabase, and Framer Motion. Experienced in building responsive, component-based UIs, AI-powered client apps, and live production projects.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend & Frameworks:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database:**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <p>
+    <a href="https://linkedin.com/in/ashwaniupadhyaydev2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://ashwani-portfolio-wheat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📌 LostAndFound.AI
-*Serverless AI-Powered Lost & Found Platform with in-browser image embeddings and pgvector search.*
-
-* **Tech Stack:** React.js, TypeScript, Supabase (Postgres RLS, Auth, Storage), pgvector, `@huggingface/transformers` (CLIP AI)
-* **Key Highlights:** Serverless architecture with client-side vision AI inference running on-device via Transformers.js (WebAssembly); integrated native 512-dim vector cosine similarity search in Postgres; atomic match confirmation workflows using RPC functions.
-* [🌐 Live Demo](https://client-sigma-murex.vercel.app) | [🔗 Repository](https://github.com/ashcodes2/LostAndFound.AI)
+### 👨‍💻 Executive Summary
+Full-Stack Software Engineer with proven experience architecting and shipping end-to-end, high-availability web applications across React.js, Node.js, and MongoDB. Proven track record delivering commercial client systems, low-latency collaborative infrastructure, and transactional double-entry banking ledgers. Strong grounding in Data Structures & Algorithms (C++), REST API optimization, and distributed state synchronization.
 
 ---
 
-#### 📌 Vijay Medical Store
-*Live e-commerce web application built for a real client.*
+### 🛠️ Technical Competencies
 
-* **Tech Stack:** React.js, Vite, Tailwind CSS v4, Framer Motion
-* **Key Highlights:** Built a responsive product catalog supporting 50+ categories; optimized page load performance with lazy loading and image optimization (40% Lighthouse score improvement).
-* [🌐 Live Demo](https://vijay-medical.vercel.app) | [🔗 Repository](https://github.com/ashcodes2/New-Medical)
-
----
-
-#### 📌 CollabCode
-*Real-time collaborative code editor supporting live multi-user editing.*
-
-* **Tech Stack:** React.js, Monaco Editor, Tailwind CSS, Socket.io
-* **Key Highlights:** Supports live editing for 10+ concurrent users with real-time sync indicators, room-based sessions, and integrated code execution panel.
-* [🌐 Live Demo](https://client-sigma-murex.vercel.app) | [🔗 Repository](https://github.com/ashcodes2/CollabCode-3D)
+- **Languages:** JavaScript (ES6+), C++, TypeScript (Foundational), HTML5, CSS3
+- **Frontend Engineering:** React.js, Vite, Tailwind CSS, Component Modularization, State Management
+- **Backend & Systems:** Node.js, Express.js, REST API Design, Socket.io (WebSockets), JWT Auth, RBAC
+- **Databases & Data Integrity:** MongoDB, Mongoose ODM, ACID Transactions, Idempotency Pattern
+- **Algorithms & CS Fundamentals:** Data Structures & Algorithms (C++), Object-Oriented Programming (OOP), DBMS, Operating Systems
 
 ---
 
-#### 📌 SMS Spam Detection System
-*Machine Learning NLP pipeline for classifying spam messages.*
+### 🚀 Production & Featured Projects
 
-* **Tech Stack:** Python, Scikit-learn, TF-IDF, NLP
-* **Key Highlights:** Trained Naive Bayes and SVM classifiers achieving 95%+ accuracy on the UCI dataset.
-* [🔗 Repository](https://github.com/ashcodes2/SMS-Spam-Detection)
+#### 1. Fintech Ledger — Full-Stack Banking & Double-Entry Platform
+*Production-ready backend architecture ensuring absolute financial consistency and race-condition immunity.*
+- **Double-Entry Core:** Implemented an immutable ledger architecture with strict `DEBIT`/`CREDIT` balance derivations, preventing balance tampering and multi-thread race conditions.
+- **ACID Transfers:** Built an atomic 10-step fund transfer flow leveraging MongoDB ACID transactions and idempotency keys to eliminate duplicate mutations during network drops.
+- **Security & UI:** Dual-view responsive interface (desktop data-tables vs mobile cards) secured via HTTP-only JWT cookies and server-side token blacklisting.
+- **Stack:** React 19, Vite, Node.js, Express.js, MongoDB Atlas.
+
+#### 2. Vijay Medical Store — Commercial E-Commerce Platform
+*Client-facing commercial production application replacing manual order workflows.*
+- **System Migration:** Transitioned client operations from an ad-hoc WhatsApp workflow to a centralized MERN order-management engine with real-time lifecycle tracking (`pending` → `delivered`).
+- **Performance & Scale:** Engineered modular filtering/search handling 50+ product categories; raised Google Lighthouse performance score by **40%** via asset compression and code-splitting.
+- **Access Control:** Built role-based access control (RBAC) protecting merchant catalog and inventory management routes.
+- **Stack:** React.js, Node.js, Express.js, MongoDB Atlas, Vercel, Render.
+
+#### 3. CollabCode — Low-Latency Collaborative Code Editor
+*Distributed real-time synchronization engine with embedded code execution.*
+- **Conflict-Free Synchronization:** Integrated Yjs CRDT with Socket.io to achieve low-latency concurrent document editing across multiple active peers.
+- **Developer Experience:** Integrated Monaco Editor with real-time cursor indicators and multi-language compilation through a remote code execution pipeline.
+- **Stack:** React.js, Socket.io, Yjs, Monaco Editor, Node.js.
 
 ---
 
-### 📫 Connect with Me
+### 🏆 Problem Solving & Competitive Programming
+- **110+ Algorithmic Challenges Solved** on LeetCode focusing on standard paradigms: Two-Pointers, Graphs, Dynamic Programming, and Tree Traversals.
+- **Google Cloud × TalentLabs Certification (2024):** Application deployment and infrastructure fundamentals on GCP.
+- **Smart India Hackathon (SIH 2023):** Rapid prototyping and architecture design under time-constrained sprints.
 
-* **LinkedIn:** [linkedin.com/in/ashwaniupadhyaydev2](https://linkedin.com/in/ashwaniupadhyaydev2)
-* **Email:** [avinash744826@gmail.com](mailto:avinash744826@gmail.com)
-* **Portfolio:** [ashwani-portfolio-wheat.vercel.app](https://ashwani-portfolio-wheat.vercel.app)
+---
+
+<div align="center">
+  <i>Open to Full-Stack Software Engineering, Backend, and Frontend roles.</i>
+</div>
